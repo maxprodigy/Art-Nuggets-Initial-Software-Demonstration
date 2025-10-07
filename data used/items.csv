@@ -1,0 +1,141 @@
+item_id,title,category,type,tags,duration_minutes
+I0001,Visual Arts - Galleries Basics 1,Visual Arts,article,"contracts,pricing",20
+I0002,Music - Royalties Basics 2,Music,video,"contracts,royalties",30
+I0003,Visual Arts - Ip Basics 3,Visual Arts,video,"galleries,ip",25
+I0004,Music - Contracts Basics 4,Music,article,"contracts,distribution",20
+I0005,Film - Pitching Basics 5,Film,article,"distribution,contracts",30
+I0006,Visual Arts - Pricing Basics 6,Visual Arts,video,"contracts,pricing",30
+I0007,Visual Arts - Contracts Basics 7,Visual Arts,video,"pricing,social media",10
+I0008,Business - Tax Basics 8,Business,video,"accounting,tax",15
+I0009,Music - Marketing Basics 9,Music,article,"royalties,production",12
+I0010,Visual Arts - Contracts Basics 10,Visual Arts,video,"contracts,ip",30
+I0011,Visual Arts - Pricing Basics 11,Visual Arts,video,"pricing,galleries",30
+I0012,Visual Arts - Ip Basics 12,Visual Arts,article,"galleries,contracts",20
+I0013,Music - Marketing Basics 13,Music,article,"royalties,distribution",7
+I0014,Business - Tax Basics 14,Business,podcast,"contracts,accounting",15
+I0015,Music - Production Basics 15,Music,video,"royalties,contracts",5
+I0016,Business - Contracts Basics 16,Business,video,"negotiation,tax",15
+I0017,Music - Royalties Basics 17,Music,video,"contracts,marketing",10
+I0018,Visual Arts - Ip Basics 18,Visual Arts,video,"contracts,pricing",12
+I0019,Business - Negotiation Basics 19,Business,video,"accounting,tax",25
+I0020,Music - Royalties Basics 20,Music,video,"production,contracts",5
+I0021,Film - Post-Production Basics 21,Film,article,"funding,contracts",20
+I0022,Music - Production Basics 22,Music,video,"marketing,royalties",15
+I0023,Film - Post-Production Basics 23,Film,video,"contracts,pitching",25
+I0024,Business - Contracts Basics 24,Business,podcast,"contracts,negotiation",20
+I0025,Film - Post-Production Basics 25,Film,article,"contracts,distribution",10
+I0026,Design - Pricing Basics 26,Design,article,"pricing,contracts",12
+I0027,Music - Contracts Basics 27,Music,video,"marketing,royalties",25
+I0028,Business - Accounting Basics 28,Business,video,"accounting,negotiation",3
+I0029,Music - Production Basics 29,Music,article,"production,royalties",10
+I0030,Design - Contracts Basics 30,Design,article,"ux,branding",10
+I0031,Film - Post-Production Basics 31,Film,video,"post-production,pitching",15
+I0032,Film - Funding Basics 32,Film,video,"funding,post-production",15
+I0033,Design - Branding Basics 33,Design,video,"branding,ux",15
+I0034,Music - Royalties Basics 34,Music,video,"production,marketing",10
+I0035,Business - Negotiation Basics 35,Business,article,"contracts,strategy",20
+I0036,Design - Branding Basics 36,Design,video,"ux,contracts",12
+I0037,Music - Distribution Basics 37,Music,article,"production,contracts",20
+I0038,Film - Funding Basics 38,Film,video,"distribution,contracts",15
+I0039,Business - Tax Basics 39,Business,article,"tax,contracts",12
+I0040,Film - Distribution Basics 40,Film,podcast,"post-production,contracts",15
+I0041,Business - Negotiation Basics 41,Business,podcast,"contracts,tax",10
+I0042,Music - Contracts Basics 42,Music,article,"distribution,marketing",7
+I0043,Film - Distribution Basics 43,Film,video,"contracts,distribution",12
+I0044,Film - Distribution Basics 44,Film,video,"contracts,distribution",25
+I0045,Business - Accounting Basics 45,Business,video,"accounting,tax",30
+I0046,Business - Tax Basics 46,Business,video,"tax,strategy",10
+I0047,Film - Post-Production Basics 47,Film,article,"contracts,post-production",30
+I0048,Business - Contracts Basics 48,Business,article,"negotiation,tax",12
+I0049,Business - Accounting Basics 49,Business,article,"negotiation,tax",15
+I0050,Music - Contracts Basics 50,Music,video,"royalties,marketing",10
+I0051,Film - Post-Production Basics 51,Film,video,"distribution,funding",7
+I0052,Visual Arts - Galleries Basics 52,Visual Arts,video,"social media,pricing",7
+I0053,Design - Contracts Basics 53,Design,article,"pricing,branding",3
+I0054,Design - Contracts Basics 54,Design,video,"freelancing,branding",7
+I0055,Film - Post-Production Basics 55,Film,article,"funding,distribution",20
+I0056,Design - Pricing Basics 56,Design,podcast,"ux,contracts",12
+I0057,Music - Production Basics 57,Music,video,"production,marketing",25
+I0058,Visual Arts - Contracts Basics 58,Visual Arts,video,"galleries,contracts",7
+I0059,Film - Funding Basics 59,Film,article,"contracts,distribution",7
+I0060,Business - Negotiation Basics 60,Business,video,"strategy,negotiation",3
+I0061,Design - Freelancing Basics 61,Design,article,"pricing,ux",12
+I0062,Design - Branding Basics 62,Design,article,"freelancing,ux",7
+I0063,Design - Contracts Basics 63,Design,video,"contracts,pricing",30
+I0064,Music - Marketing Basics 64,Music,article,"production,contracts",5
+I0065,Film - Post-Production Basics 65,Film,video,"contracts,funding",5
+I0066,Visual Arts - Social Media Basics 66,Visual Arts,video,"ip,pricing",15
+I0067,Visual Arts - Ip Basics 67,Visual Arts,article,"pricing,ip",3
+I0068,Film - Post-Production Basics 68,Film,podcast,"funding,contracts",5
+I0069,Music - Royalties Basics 69,Music,video,"contracts,distribution",7
+I0070,Business - Accounting Basics 70,Business,article,"tax,contracts",7
+I0071,Music - Marketing Basics 71,Music,article,"distribution,marketing",10
+I0072,Design - Contracts Basics 72,Design,video,"ux,branding",30
+I0073,Visual Arts - Galleries Basics 73,Visual Arts,video,"social media,galleries",12
+I0074,Music - Distribution Basics 74,Music,video,"distribution,marketing",25
+I0075,Film - Contracts Basics 75,Film,video,"post-production,pitching",25
+I0076,Visual Arts - Contracts Basics 76,Visual Arts,video,"galleries,pricing",30
+I0077,Business - Accounting Basics 77,Business,podcast,"contracts,tax",10
+I0078,Design - Contracts Basics 78,Design,video,"contracts,ux",20
+I0079,Business - Negotiation Basics 79,Business,video,"accounting,negotiation",25
+I0080,Music - Distribution Basics 80,Music,article,"royalties,distribution",7
+I0081,Business - Accounting Basics 81,Business,article,"negotiation,contracts",10
+I0082,Film - Pitching Basics 82,Film,video,"contracts,funding",7
+I0083,Business - Contracts Basics 83,Business,video,"accounting,contracts",3
+I0084,Film - Post-Production Basics 84,Film,podcast,"post-production,contracts",3
+I0085,Business - Negotiation Basics 85,Business,video,"strategy,tax",7
+I0086,Business - Contracts Basics 86,Business,video,"strategy,contracts",10
+I0087,Design - Ux Basics 87,Design,video,"ux,pricing",30
+I0088,Visual Arts - Contracts Basics 88,Visual Arts,video,"ip,galleries",7
+I0089,Music - Distribution Basics 89,Music,video,"production,marketing",3
+I0090,Film - Funding Basics 90,Film,video,"contracts,funding",25
+I0091,Design - Contracts Basics 91,Design,video,"branding,contracts",3
+I0092,Music - Royalties Basics 92,Music,podcast,"contracts,distribution",7
+I0093,Design - Pricing Basics 93,Design,video,"freelancing,ux",30
+I0094,Design - Pricing Basics 94,Design,video,"freelancing,contracts",3
+I0095,Music - Marketing Basics 95,Music,video,"marketing,distribution",20
+I0096,Visual Arts - Pricing Basics 96,Visual Arts,video,"pricing,galleries",10
+I0097,Visual Arts - Pricing Basics 97,Visual Arts,video,"contracts,social media",3
+I0098,Music - Production Basics 98,Music,video,"production,marketing",20
+I0099,Business - Negotiation Basics 99,Business,video,"strategy,tax",30
+I0100,Music - Distribution Basics 100,Music,video,"royalties,production",12
+I0101,Design - Pricing Basics 101,Design,article,"contracts,freelancing",25
+I0102,Music - Contracts Basics 102,Music,podcast,"contracts,distribution",5
+I0103,Design - Pricing Basics 103,Design,video,"contracts,ux",12
+I0104,Visual Arts - Galleries Basics 104,Visual Arts,video,"social media,pricing",20
+I0105,Music - Marketing Basics 105,Music,article,"marketing,contracts",7
+I0106,Design - Pricing Basics 106,Design,video,"contracts,branding",3
+I0107,Visual Arts - Social Media Basics 107,Visual Arts,article,"social media,contracts",15
+I0108,Film - Distribution Basics 108,Film,article,"funding,pitching",10
+I0109,Music - Production Basics 109,Music,video,"royalties,distribution",3
+I0110,Film - Contracts Basics 110,Film,video,"distribution,pitching",20
+I0111,Business - Strategy Basics 111,Business,video,"strategy,tax",7
+I0112,Business - Tax Basics 112,Business,video,"contracts,accounting",3
+I0113,Design - Freelancing Basics 113,Design,video,"freelancing,branding",3
+I0114,Design - Contracts Basics 114,Design,video,"freelancing,pricing",5
+I0115,Business - Strategy Basics 115,Business,video,"contracts,negotiation",30
+I0116,Business - Accounting Basics 116,Business,video,"negotiation,tax",25
+I0117,Music - Marketing Basics 117,Music,article,"production,royalties",5
+I0118,Film - Funding Basics 118,Film,video,"contracts,distribution",5
+I0119,Design - Pricing Basics 119,Design,article,"freelancing,pricing",3
+I0120,Visual Arts - Social Media Basics 120,Visual Arts,video,"contracts,galleries",3
+I0121,Business - Tax Basics 121,Business,article,"accounting,strategy",10
+I0122,Visual Arts - Galleries Basics 122,Visual Arts,video,"ip,contracts",20
+I0123,Music - Production Basics 123,Music,video,"production,contracts",10
+I0124,Film - Funding Basics 124,Film,video,"pitching,funding",7
+I0125,Business - Accounting Basics 125,Business,podcast,"accounting,tax",5
+I0126,Visual Arts - Galleries Basics 126,Visual Arts,video,"pricing,ip",10
+I0127,Visual Arts - Contracts Basics 127,Visual Arts,video,"pricing,galleries",7
+I0128,Business - Strategy Basics 128,Business,article,"tax,strategy",12
+I0129,Film - Post-Production Basics 129,Film,video,"distribution,post-production",3
+I0130,Business - Negotiation Basics 130,Business,video,"contracts,accounting",5
+I0131,Music - Royalties Basics 131,Music,video,"production,distribution",20
+I0132,Design - Contracts Basics 132,Design,video,"branding,contracts",25
+I0133,Music - Royalties Basics 133,Music,video,"contracts,production",25
+I0134,Film - Contracts Basics 134,Film,article,"post-production,contracts",10
+I0135,Music - Contracts Basics 135,Music,video,"distribution,royalties",15
+I0136,Design - Freelancing Basics 136,Design,video,"ux,pricing",15
+I0137,Design - Branding Basics 137,Design,video,"pricing,ux",3
+I0138,Business - Accounting Basics 138,Business,video,"contracts,tax",30
+I0139,Film - Post-Production Basics 139,Film,video,"funding,post-production",5
+I0140,Film - Post-Production Basics 140,Film,video,"distribution,contracts",12

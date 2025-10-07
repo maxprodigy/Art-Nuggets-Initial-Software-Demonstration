@@ -1,0 +1,421 @@
+contract_id,clause_text,clause_type,risk_label
+C0001,This Agreement shall be governed by the laws of Nigeria.,Governing Law,no_risk
+C0002,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0003,Artist shall not enter into agreements with third parties without prior written consent.,Exclusivity,no_risk
+C0004,Rights are worldwide and exclusive.,Territory,risk
+C0005,Rights shall revert to Artist if release does not occur within 18 months of delivery.,Reversion,no_risk
+C0006,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0007,The Term shall continue for 2 years from the Effective Date.,Term,no_risk
+C0008,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0009,Rights shall revert to Artist if release does not occur within 18 months of delivery.,Reversion,no_risk
+C0010,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0011,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0012,This Agreement shall last in perpetuity unless terminated by Company.,Term,risk
+C0013,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0014,Artist shall have the right to audit Company's books upon 10-day notice.,Audit Rights,no_risk
+C0015,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0016,No audit rights are granted under this Agreement.,Audit Rights,risk
+C0017,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0018,Rights shall revert to Artist if release does not occur within 12 months of delivery.,Reversion,no_risk
+C0019,Rights are worldwide and exclusive.,Territory,risk
+C0020,The parties submit to the exclusive jurisdiction of the courts of Kenya.,Governing Law,no_risk
+C0021,No royalties are payable on promotional copies.,Royalties,no_risk
+C0022,This Agreement shall last in perpetuity unless terminated by Company.,Term,risk
+C0023,Licensee is granted rights in Worldwide on a non-exclusive basis.,Territory,no_risk
+C0024,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0025,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0026,Artist shall have the right to audit Company's books upon 30-day notice.,Audit Rights,no_risk
+C0027,This Agreement shall be governed by the laws of Kenya.,Governing Law,no_risk
+C0028,This Agreement shall be governed by the laws of Kenya.,Governing Law,no_risk
+C0029,Royalty rate on Net Receipts shall be 30% of net revenue.,Royalties,no_risk
+C0030,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0031,This Agreement shall be governed by the laws of South Africa.,Governing Law,no_risk
+C0032,Artist shall have the right to audit Company's books upon 15-day notice.,Audit Rights,no_risk
+C0033,The initial term is 5 years with 2 options of 1 years each.,Term,no_risk
+C0034,No royalties are payable on promotional copies.,Royalties,no_risk
+C0035,No royalties are payable on promotional copies.,Royalties,no_risk
+C0036,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0037,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0038,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0039,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0040,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0041,Artist shall have the right to audit Company's books upon 15-day notice.,Audit Rights,no_risk
+C0042,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0043,The Term shall continue for 2 years from the Effective Date.,Term,no_risk
+C0044,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0045,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0046,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0047,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0048,The Term shall continue for 10 years from the Effective Date.,Term,risk
+C0049,Artist shall have the right to audit Company's books upon 30-day notice.,Audit Rights,no_risk
+C0050,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0051,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0052,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0053,Rights shall revert to Artist if release does not occur within 9 months of delivery.,Reversion,no_risk
+C0054,This Agreement shall be governed by the laws of England and Wales.,Governing Law,no_risk
+C0055,Artist shall have the right to audit Company's books upon 90-day notice.,Audit Rights,no_risk
+C0056,Rights shall revert to Artist if release does not occur within 18 months of delivery.,Reversion,no_risk
+C0057,No audit rights are granted under this Agreement.,Audit Rights,risk
+C0058,Licensee is granted rights in Worldwide on a non-exclusive basis.,Territory,no_risk
+C0059,Royalty rate on Net Receipts shall be 15% of net revenue.,Royalties,risk
+C0060,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0061,Rights are worldwide and exclusive.,Territory,risk
+C0062,Rights are worldwide and exclusive.,Territory,risk
+C0063,Artist shall not enter into agreements with third parties without prior written consent.,Exclusivity,no_risk
+C0064,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0065,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0066,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0067,Rights shall revert to Artist if release does not occur within 9 months of delivery.,Reversion,no_risk
+C0068,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0069,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0070,The Territory shall be Africa.,Territory,no_risk
+C0071,Licensee is granted rights in Nigeria on a non-exclusive basis.,Territory,no_risk
+C0072,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0073,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0074,The Term shall continue for 10 years from the Effective Date.,Term,risk
+C0075,The Territory shall be Worldwide.,Territory,risk
+C0076,Rights are worldwide and exclusive.,Territory,risk
+C0077,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0078,No royalties are payable on promotional copies.,Royalties,no_risk
+C0079,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0080,Artist shall receive a royalty of 25% of gross revenue.,Royalties,no_risk
+C0081,Royalty rate on Net Receipts shall be 10% of net revenue.,Royalties,risk
+C0082,The parties submit to the exclusive jurisdiction of the courts of New York.,Governing Law,no_risk
+C0083,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0084,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0085,This Agreement shall be governed by the laws of Nigeria.,Governing Law,no_risk
+C0086,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0087,The Territory shall be Africa.,Territory,no_risk
+C0088,No royalties are payable on promotional copies.,Royalties,no_risk
+C0089,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0090,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0091,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0092,Licensee is granted rights in Nigeria and Ghana on a non-exclusive basis.,Territory,no_risk
+C0093,The Territory shall be Worldwide excluding USA.,Territory,risk
+C0094,Rights shall revert to Artist if release does not occur within 3 months of delivery.,Reversion,no_risk
+C0095,Royalty rate on Net Receipts shall be 25% of net revenue.,Royalties,no_risk
+C0096,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0097,Artist shall receive a royalty of 5% of gross revenue.,Royalties,risk
+C0098,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0099,The Term shall be for the life of copyright in the Recordings.,Term,risk
+C0100,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0101,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0102,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0103,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0104,Artist shall have the right to audit Company's books upon 10-day notice.,Audit Rights,no_risk
+C0105,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0106,Rights shall revert to Artist if release does not occur within 3 months of delivery.,Reversion,no_risk
+C0107,Rights shall revert to Artist if release does not occur within 6 months of delivery.,Reversion,no_risk
+C0108,Rights are worldwide and exclusive.,Territory,risk
+C0109,This Agreement shall be governed by the laws of California.,Governing Law,no_risk
+C0110,Rights are worldwide and exclusive.,Territory,risk
+C0111,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0112,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0113,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0114,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0115,Artist shall receive a royalty of 25% of gross revenue.,Royalties,no_risk
+C0116,Artist shall not enter into agreements with third parties without prior written consent.,Exclusivity,no_risk
+C0117,The parties submit to the exclusive jurisdiction of the courts of California.,Governing Law,no_risk
+C0118,Artist shall have the right to audit Company's books upon 10-day notice.,Audit Rights,no_risk
+C0119,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0120,Rights are worldwide and exclusive.,Territory,risk
+C0121,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0122,Artist shall have the right to audit Company's books upon 15-day notice.,Audit Rights,no_risk
+C0123,No audit rights are granted under this Agreement.,Audit Rights,risk
+C0124,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0125,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0126,The parties submit to the exclusive jurisdiction of the courts of South Africa.,Governing Law,no_risk
+C0127,The Territory shall be Worldwide.,Territory,risk
+C0128,The Territory shall be Worldwide excluding USA.,Territory,risk
+C0129,Rights shall revert to Artist if release does not occur within 9 months of delivery.,Reversion,no_risk
+C0130,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0131,Artist shall have the right to audit Company's books upon 30-day notice.,Audit Rights,no_risk
+C0132,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0133,The Term shall continue for 10 years from the Effective Date.,Term,risk
+C0134,The Term shall continue for 3 years from the Effective Date.,Term,no_risk
+C0135,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0136,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0137,The Term shall continue for 1 years from the Effective Date.,Term,no_risk
+C0138,The initial term is 7 years with 1 option of 2 years each.,Term,risk
+C0139,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0140,Advances of 500 shall be non-recoupable.,Recoupment,no_risk
+C0141,Artist shall have the right to audit Company's books upon 15-day notice.,Audit Rights,no_risk
+C0142,This Agreement shall be governed by the laws of New York.,Governing Law,no_risk
+C0143,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0144,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0145,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0146,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0147,Artist shall not enter into agreements with third parties without prior written consent.,Exclusivity,no_risk
+C0148,No audit rights are granted under this Agreement.,Audit Rights,risk
+C0149,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0150,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0151,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0152,Artist shall receive a royalty of 20% of gross revenue.,Royalties,no_risk
+C0153,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0154,This Agreement shall last in perpetuity unless terminated by Company.,Term,risk
+C0155,Licensee is granted rights in Worldwide on a non-exclusive basis.,Territory,no_risk
+C0156,The parties submit to the exclusive jurisdiction of the courts of South Africa.,Governing Law,no_risk
+C0157,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0158,Licensee is granted rights in Africa on a non-exclusive basis.,Territory,no_risk
+C0159,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0160,The Term shall continue for 7 years from the Effective Date.,Term,risk
+C0161,No audit rights are granted under this Agreement.,Audit Rights,risk
+C0162,Rights shall revert to Artist if release does not occur within 12 months of delivery.,Reversion,no_risk
+C0163,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0164,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0165,This Agreement shall last in perpetuity unless terminated by Company.,Term,risk
+C0166,The parties submit to the exclusive jurisdiction of the courts of Kenya.,Governing Law,no_risk
+C0167,Audit may occur once per calendar year with reasonable notice.,Audit Rights,no_risk
+C0168,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0169,The parties submit to the exclusive jurisdiction of the courts of New York.,Governing Law,no_risk
+C0170,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0171,Rights shall revert to Artist if release does not occur within 6 months of delivery.,Reversion,no_risk
+C0172,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0173,This Agreement shall be governed by the laws of Kenya.,Governing Law,no_risk
+C0174,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0175,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0176,Advances of 1000 shall be non-recoupable.,Recoupment,no_risk
+C0177,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0178,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0179,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0180,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0181,This Agreement shall be governed by the laws of New York.,Governing Law,no_risk
+C0182,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0183,No royalties are payable on promotional copies.,Royalties,no_risk
+C0184,Royalty rate on Net Receipts shall be 12% of net revenue.,Royalties,risk
+C0185,The Term shall continue for 2 years from the Effective Date.,Term,no_risk
+C0186,Licensee is granted rights in West Africa on a non-exclusive basis.,Territory,no_risk
+C0187,This Agreement shall be governed by the laws of South Africa.,Governing Law,no_risk
+C0188,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0189,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0190,Artist shall not enter into agreements with third parties without prior written consent.,Exclusivity,no_risk
+C0191,The Term shall continue for 5 years from the Effective Date.,Term,no_risk
+C0192,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0193,Rights shall revert to Artist if release does not occur within 3 months of delivery.,Reversion,no_risk
+C0194,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0195,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0196,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0197,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0198,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0199,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0200,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0201,Advances of 500 shall be non-recoupable.,Recoupment,no_risk
+C0202,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0203,No audit rights are granted under this Agreement.,Audit Rights,risk
+C0204,The Territory shall be Africa.,Territory,no_risk
+C0205,Artist shall receive a royalty of 12% of gross revenue.,Royalties,risk
+C0206,Royalty rate on Net Receipts shall be 25% of net revenue.,Royalties,no_risk
+C0207,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0208,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0209,This Agreement shall last in perpetuity unless terminated by Company.,Term,risk
+C0210,The Term shall be for the life of copyright in the Recordings.,Term,risk
+C0211,Advances of 5000 shall be non-recoupable.,Recoupment,no_risk
+C0212,Rights shall revert to Artist if release does not occur within 12 months of delivery.,Reversion,no_risk
+C0213,Artist shall receive a royalty of 25% of gross revenue.,Royalties,no_risk
+C0214,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0215,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0216,The parties submit to the exclusive jurisdiction of the courts of South Africa.,Governing Law,no_risk
+C0217,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0218,Artist shall not enter into agreements with third parties without prior written consent.,Exclusivity,no_risk
+C0219,Rights shall revert to Artist if release does not occur within 12 months of delivery.,Reversion,no_risk
+C0220,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0221,Rights are worldwide and exclusive.,Territory,risk
+C0222,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0223,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0224,Advances of 2500 shall be non-recoupable.,Recoupment,no_risk
+C0225,Artist shall receive a royalty of 20% of gross revenue.,Royalties,no_risk
+C0226,No audit rights are granted under this Agreement.,Audit Rights,risk
+C0227,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0228,Licensee is granted rights in Nigeria on a non-exclusive basis.,Territory,no_risk
+C0229,Rights shall revert to Artist if release does not occur within 9 months of delivery.,Reversion,no_risk
+C0230,No royalties are payable on promotional copies.,Royalties,no_risk
+C0231,This Agreement shall be governed by the laws of Nigeria.,Governing Law,no_risk
+C0232,Royalty rate on Net Receipts shall be 5% of net revenue.,Royalties,risk
+C0233,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0234,Royalty rate on Net Receipts shall be 30% of net revenue.,Royalties,no_risk
+C0235,This Agreement shall be governed by the laws of Kenya.,Governing Law,no_risk
+C0236,Artist shall receive a royalty of 18% of gross revenue.,Royalties,risk
+C0237,Artist shall have the right to audit Company's books upon 90-day notice.,Audit Rights,no_risk
+C0238,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0239,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0240,Rights are worldwide and exclusive.,Territory,risk
+C0241,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0242,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0243,Rights are worldwide and exclusive.,Territory,risk
+C0244,This Agreement shall be governed by the laws of Nigeria.,Governing Law,no_risk
+C0245,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0246,Rights are worldwide and exclusive.,Territory,risk
+C0247,Audit may occur once per calendar year with reasonable notice.,Audit Rights,no_risk
+C0248,The parties submit to the exclusive jurisdiction of the courts of Nigeria.,Governing Law,no_risk
+C0249,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0250,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0251,Licensee is granted rights in Worldwide on a non-exclusive basis.,Territory,no_risk
+C0252,The parties submit to the exclusive jurisdiction of the courts of South Africa.,Governing Law,no_risk
+C0253,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0254,Artist shall not enter into agreements with third parties without prior written consent.,Exclusivity,no_risk
+C0255,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0256,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0257,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0258,Artist shall have the right to audit Company's books upon 10-day notice.,Audit Rights,no_risk
+C0259,Advances of 1000 shall be non-recoupable.,Recoupment,no_risk
+C0260,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0261,Artist shall have the right to audit Company's books upon 60-day notice.,Audit Rights,no_risk
+C0262,Artist shall have the right to audit Company's books upon 60-day notice.,Audit Rights,no_risk
+C0263,Artist shall receive a royalty of 18% of gross revenue.,Royalties,risk
+C0264,No audit rights are granted under this Agreement.,Audit Rights,risk
+C0265,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0266,Rights shall revert to Artist if release does not occur within 3 months of delivery.,Reversion,no_risk
+C0267,No royalties are payable on promotional copies.,Royalties,no_risk
+C0268,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0269,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0270,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0271,Licensee is granted rights in Africa on a non-exclusive basis.,Territory,no_risk
+C0272,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0273,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0274,No audit rights are granted under this Agreement.,Audit Rights,risk
+C0275,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0276,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0277,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0278,Advances of 1000 shall be non-recoupable.,Recoupment,no_risk
+C0279,Rights are worldwide and exclusive.,Territory,risk
+C0280,Artist shall have the right to audit Company's books upon 90-day notice.,Audit Rights,no_risk
+C0281,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0282,No royalties are payable on promotional copies.,Royalties,no_risk
+C0283,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0284,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0285,Artist shall receive a royalty of 15% of gross revenue.,Royalties,risk
+C0286,Artist shall have the right to audit Company's books upon 30-day notice.,Audit Rights,no_risk
+C0287,This Agreement shall last in perpetuity unless terminated by Company.,Term,risk
+C0288,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0289,The parties submit to the exclusive jurisdiction of the courts of Nigeria.,Governing Law,no_risk
+C0290,The initial term is 5 years with 3 options of 2 years each.,Term,no_risk
+C0291,Artist shall have the right to audit Company's books upon 10-day notice.,Audit Rights,no_risk
+C0292,Advances of 500 shall be non-recoupable.,Recoupment,no_risk
+C0293,Licensee is granted rights in West Africa on a non-exclusive basis.,Territory,no_risk
+C0294,Rights are worldwide and exclusive.,Territory,risk
+C0295,This Agreement shall be governed by the laws of England and Wales.,Governing Law,no_risk
+C0296,Artist shall not enter into agreements with third parties without prior written consent.,Exclusivity,no_risk
+C0297,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0298,Rights are worldwide and exclusive.,Territory,risk
+C0299,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0300,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0301,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0302,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0303,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0304,The Term shall continue for 2 years from the Effective Date.,Term,no_risk
+C0305,This Agreement shall be governed by the laws of England and Wales.,Governing Law,no_risk
+C0306,Royalty rate on Net Receipts shall be 35% of net revenue.,Royalties,no_risk
+C0307,The Territory shall be Nigeria.,Territory,no_risk
+C0308,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0309,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0310,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0311,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0312,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0313,This Agreement shall be governed by the laws of New York.,Governing Law,no_risk
+C0314,This Agreement shall be governed by the laws of California.,Governing Law,no_risk
+C0315,Rights are worldwide and exclusive.,Territory,risk
+C0316,This Agreement shall be governed by the laws of New York.,Governing Law,no_risk
+C0317,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0318,This Agreement shall last in perpetuity unless terminated by Company.,Term,risk
+C0319,Licensee is granted rights in Worldwide excluding USA on a non-exclusive basis.,Territory,no_risk
+C0320,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0321,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0322,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0323,Rights are worldwide and exclusive.,Territory,risk
+C0324,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0325,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0326,The Term shall continue for 2 years from the Effective Date.,Term,no_risk
+C0327,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0328,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0329,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0330,Artist shall not enter into agreements with third parties without prior written consent.,Exclusivity,no_risk
+C0331,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0332,Licensee is granted rights in Worldwide on a non-exclusive basis.,Territory,no_risk
+C0333,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0334,Audit may occur once per calendar year with reasonable notice.,Audit Rights,no_risk
+C0335,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0336,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0337,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0338,Rights shall revert to Artist if release does not occur within 12 months of delivery.,Reversion,no_risk
+C0339,Licensee is granted rights in Worldwide on a non-exclusive basis.,Territory,no_risk
+C0340,Artist shall have the right to audit Company's books upon 60-day notice.,Audit Rights,no_risk
+C0341,Rights shall revert to Artist if release does not occur within 18 months of delivery.,Reversion,no_risk
+C0342,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0343,This Agreement shall last in perpetuity unless terminated by Company.,Term,risk
+C0344,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0345,This Agreement shall last in perpetuity unless terminated by Company.,Term,risk
+C0346,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0347,The Territory shall be Worldwide excluding USA.,Territory,risk
+C0348,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0349,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0350,Rights shall revert to Artist if release does not occur within 18 months of delivery.,Reversion,no_risk
+C0351,Company may assign this Agreement without Artist's consent.,Assignment,risk
+C0352,Royalty rate on Net Receipts shall be 30% of net revenue.,Royalties,no_risk
+C0353,Rights are worldwide and exclusive.,Territory,risk
+C0354,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0355,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0356,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0357,Artist shall receive a royalty of 35% of gross revenue.,Royalties,no_risk
+C0358,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0359,No royalties are payable on promotional copies.,Royalties,no_risk
+C0360,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0361,Advances of 2500 shall be non-recoupable.,Recoupment,no_risk
+C0362,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0363,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0364,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0365,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0366,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0367,Audit may occur once per calendar year with reasonable notice.,Audit Rights,no_risk
+C0368,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0369,Artist shall have the right to audit Company's books upon 15-day notice.,Audit Rights,no_risk
+C0370,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0371,Artist shall receive a royalty of 5% of gross revenue.,Royalties,risk
+C0372,Audit may occur once per calendar year with reasonable notice.,Audit Rights,no_risk
+C0373,Neither party may assign without prior written consent of the other party.,Assignment,no_risk
+C0374,This Agreement shall be governed by the laws of California.,Governing Law,no_risk
+C0375,This Agreement shall last in perpetuity unless terminated by Company.,Term,risk
+C0376,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0377,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0378,This Agreement is non-exclusive and Artist may render services to others.,Exclusivity,no_risk
+C0379,This Agreement shall be governed by the laws of Nigeria.,Governing Law,no_risk
+C0380,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0381,Audit may occur once per calendar year with reasonable notice.,Audit Rights,no_risk
+C0382,This Agreement shall be governed by the laws of New York.,Governing Law,no_risk
+C0383,The parties submit to the exclusive jurisdiction of the courts of New York.,Governing Law,no_risk
+C0384,The parties submit to the exclusive jurisdiction of the courts of Kenya.,Governing Law,no_risk
+C0385,The Term shall continue for 2 years from the Effective Date.,Term,no_risk
+C0386,Licensee is granted rights in Nigeria on a non-exclusive basis.,Territory,no_risk
+C0387,This Agreement shall be governed by the laws of California.,Governing Law,no_risk
+C0388,Artist shall not enter into agreements with third parties without prior written consent.,Exclusivity,no_risk
+C0389,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0390,Artist shall have the right to audit Company's books upon 30-day notice.,Audit Rights,no_risk
+C0391,No audit rights are granted under this Agreement.,Audit Rights,risk
+C0392,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0393,No reversion of rights is provided under this Agreement.,Reversion,risk
+C0394,This Agreement shall be governed by the laws of England and Wales.,Governing Law,no_risk
+C0395,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0396,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0397,The parties agree to keep Confidential Information secret for {years} years.,Confidentiality,no_risk
+C0398,Artist shall indemnify and hold Company harmless from all claims arising out of the Recordings.,Indemnity,risk
+C0399,Artist shall receive a royalty of 50% of gross revenue.,Royalties,no_risk
+C0400,Advances of 2500 shall be non-recoupable.,Recoupment,no_risk
+C0401,This Agreement shall be governed by the laws of California.,Governing Law,no_risk
+C0402,Recording costs are recoupable solely from Company's share.,Recoupment,no_risk
+C0403,Artist agrees to provide services on an exclusive basis during the Term.,Exclusivity,risk
+C0404,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0405,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0406,The parties submit to the exclusive jurisdiction of the courts of South Africa.,Governing Law,no_risk
+C0407,Advances of 2500 shall be non-recoupable.,Recoupment,no_risk
+C0408,Artist shall receive a royalty of 30% of gross revenue.,Royalties,no_risk
+C0409,The Territory shall be West Africa.,Territory,no_risk
+C0410,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0411,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0412,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0413,All Advances shall be fully recoupable from Artist's royalties.,Recoupment,risk
+C0414,This Agreement shall be governed by the laws of Kenya.,Governing Law,no_risk
+C0415,Each party agrees to indemnify the other for third-party claims caused by its breach.,Indemnity,no_risk
+C0416,No royalties are payable on promotional copies.,Royalties,no_risk
+C0417,No royalties are payable on promotional copies.,Royalties,no_risk
+C0418,No confidentiality obligations apply after the Term.,Confidentiality,risk
+C0419,This Agreement shall be governed by the laws of South Africa.,Governing Law,no_risk
+C0420,Rights are worldwide and exclusive.,Territory,risk
